@@ -1,9 +1,0 @@
-#git-scm.com
-# first time
-git init
-git status
-git add.
-
-# first time
-git config --global user.name "giya bichwalia"
-git config --global user.email "giyabichwalia@gmail.com"
